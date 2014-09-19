@@ -23,6 +23,8 @@
 
   };
 });
+
+// don't you take this shit here
 app.directive('modalDialog', function() {
 	  return {
 	    restrict: 'E',
